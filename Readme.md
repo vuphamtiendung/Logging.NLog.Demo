@@ -1,7 +1,7 @@
 # This is code demo introduce about logging with NLog.
 # I using class library and one project backend API .Net Core to demo
 
-# Step One: run extension in package manage console
+# Step One: run extension in package manage console at LoggingService library
     install-package nlog.extensions.logging
 # Step Two:
     Create a file 'nlog.config' in backend API with the content below:
