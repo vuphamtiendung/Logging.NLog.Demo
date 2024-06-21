@@ -4,7 +4,7 @@
 # Step One: run extension in package manage console
     install-package nlog.extensions.logging
 # Step Two:
-    Create a file 'blog. Config' in backend API with the content below:
+    Create a file 'nlog.config' in backend API with the content below:
 
     <?xml version="1.0" encoding="utf-8"?>
     <nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd"
